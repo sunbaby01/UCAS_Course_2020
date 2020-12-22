@@ -1,6 +1,6 @@
 # UCAS_Course_2020
 
-中国科学院大学（UCAS)2020课程PPT
+中国科学院大学（UCAS)2020课程PPT 国科大
 
 
 * 下载github仓库部分文件夹：
