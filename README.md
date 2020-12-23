@@ -7,7 +7,7 @@
 
   安装 单个文件夹下载的Chrome浏览器插件 [GitZip for Github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)
 
-  **[或者]
+  或者
 
   复制该文件夹的网址，粘贴入DownGit中，选择download即可 [http://zhoudaxiaa.gitee.io/downgit/#/home](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)
 
