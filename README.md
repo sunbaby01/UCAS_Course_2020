@@ -8,7 +8,7 @@
 
 或者使用
 
-复制该文件夹的网址，粘贴入DownGit中，选择download即可 [http://zhoudaxiaa.gitee.io/downgit/#/home](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)
+* 复制该文件夹的网址，粘贴入DownGit中，选择download即可 [http://zhoudaxiaa.gitee.io/downgit/#/home](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)
 
 
 ### 往届参考
