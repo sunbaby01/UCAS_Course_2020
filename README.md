@@ -31,3 +31,6 @@
 
 * [univeryinli/ucas-ppt2019](https://github.com/univeryinli/ucas-ppt) 
 中国科学院大学 国科大课件ppt，主要课程为模式识别，深度学习，高级人工智能
+
+### 免责声明
+本项目只用于学习交流，请勿用于任何商业目的
